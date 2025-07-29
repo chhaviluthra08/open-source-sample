@@ -1,1 +1,1 @@
-#sample repo to practice open source 
+# Sample Repo for Open Source
